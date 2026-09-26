@@ -4,3 +4,6 @@ langchain_groq
 requests
 PyGithub
 pydantic
+fastapi[standard]
+
+langgraph 
