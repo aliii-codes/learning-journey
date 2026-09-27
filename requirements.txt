@@ -7,3 +7,6 @@ pydantic
 fastapi[standard]
 
 langgraph 
+
+
+exa-py
