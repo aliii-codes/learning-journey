@@ -27,3 +27,5 @@ raw_response = result["messages"][-1].content
 restaurant = structured_llm.invoke(raw_response)
 
 print(restaurant)
+
+# will fix later !
