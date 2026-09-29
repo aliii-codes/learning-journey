@@ -9,9 +9,5 @@ os.environ['GROQ_API_KEY'] = os.getenv('GROQ_API_KEY')
 
 llm = ChatGroq(
     model='openai/gpt-oss-120b',
-    max_tokens=1000,
+    max_tokens=999,
 )
-
-
-# response = llm.invoke('Hello')
-# print(response.content)

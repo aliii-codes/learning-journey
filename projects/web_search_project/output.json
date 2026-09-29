@@ -1,0 +1,44 @@
+{
+    "restaurants": [
+        {
+            "name": "The Dome",
+            "location": "Daman‑e‑Koh, Islamabad (panoramic hill‑top)",
+            "description": "Fine‑dining mix of traditional Pakistani, continental and Chinese dishes, offering a premium fine‑dining experience with scenic hill‑top views and curated cuisine.",
+            "phone_number": null,
+            "special_thing": "Scenic hill‑top views and premium fine‑dining experience",
+            "source_url": null
+        },
+        {
+            "name": "El Momento Steakhouse",
+            "location": "Beverly Centre, F‑6/1 Blue Area, Islamabad",
+            "description": "Luxury steakhouse offering premium imported cuts such as Wagyu, rib‑eye, and filet mignon, complemented by a full bar and upscale ambience. Marketed as Islamabad’s premier steakhouse with a reputation for excellent service.",
+            "phone_number": null,
+            "special_thing": "Islamabad’s premier steakhouse with high‑quality imported cuts",
+            "source_url": null
+        },
+        {
+            "name": "Em En Caffè",
+            "location": "F‑6, Islamabad (ground‑floor, Block 5E, Super Market)",
+            "description": "Fine‑dining café offering a seasonal, chef‑driven menu that blends European and Asian influences.",
+            "phone_number": null,
+            "special_thing": "Elegant ambience, chef‑driven menu and warm, attentive service",
+            "source_url": null
+        },
+        {
+            "name": "Mastara – Rooftop Restaurant",
+            "location": "6th Floor, Galleria Mall, I‑8 Markaz",
+            "description": "Rooftop dining with panoramic city views; live BBQ station, multi‑cuisine menu (Pakistani, grills, continental). Promoted as a rooftop destination with over 200 signature dishes and a reputation for unforgettable views and lively atmosphere.",
+            "phone_number": null,
+            "special_thing": "Panoramic city views and live BBQ station with over 200 signature dishes",
+            "source_url": null
+        },
+        {
+            "name": "Umami",
+            "location": "4th Floor, Pakland Tower 3, New Blue Area",
+            "description": "Global fine‑dining concept offering sushi, Japanese, Italian, continental, gourmet fast‑food, and desserts; noted for its fully electric kitchen, diverse global menu, and family‑friendly upscale setting, frequently cited as one of Islamabad’s top fine‑dining spots.",
+            "phone_number": null,
+            "special_thing": "Fully electric kitchen",
+            "source_url": null
+        }
+    ]
+}

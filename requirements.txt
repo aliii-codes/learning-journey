@@ -10,3 +10,4 @@ langgraph
 
 
 exa-py
+pandas
